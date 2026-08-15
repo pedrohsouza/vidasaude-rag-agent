@@ -2,7 +2,7 @@
 
 Este projeto é um Agente Inteligente capaz de responder a dúvidas de pacientes com base na documentação oficial da **Clínica VidaSaúde** utilizando técnicas de RAG (Retrieval-Augmented Generation).
 
-🔗 **URL da Aplicação:** []
+🔗 **URL da Aplicação:** [https://vidasaude-rag-agent.streamlit.app/]
 
 ---
 
