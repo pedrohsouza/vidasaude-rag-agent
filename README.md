@@ -26,7 +26,7 @@ Este projeto é um Agente Inteligente capaz de responder a dúvidas de pacientes
 ## 🚀 Como Executar Localmente
 ```bash
 # 1. Clonar o repositório
-git clone [https://github.com/pedrohsouza/vidasaude-rag-agent.git](https://github.com/pedrohsouza/vidasaude-rag-agent.git)
+git clone https://github.com/pedrohsouza/vidasaude-rag-agent.git
 
 # 2. Instalar dependências
 pip install -r requirements.txt
